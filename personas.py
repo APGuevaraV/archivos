@@ -16,3 +16,4 @@ for linea in lineas:
 for p in personas:
     print(f"(id={p['id']}) {p['nombre']} {p['apellido']} => {p['fecha']}")
     
+    
